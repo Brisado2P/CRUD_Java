@@ -51,7 +51,7 @@ public class JMenu extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setBackground(new java.awt.Color(0, 255, 255));
+        jButton2.setBackground(new java.awt.Color(102, 255, 255));
         jButton2.setFont(new java.awt.Font("Rockwell", 0, 22)); // NOI18N
         jButton2.setText("Vendedores");
         jButton2.setName("btnfuncionarios"); // NOI18N
@@ -61,7 +61,7 @@ public class JMenu extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setBackground(new java.awt.Color(51, 255, 255));
+        jButton3.setBackground(new java.awt.Color(0, 255, 255));
         jButton3.setFont(new java.awt.Font("Rockwell", 0, 22)); // NOI18N
         jButton3.setText("Produtos");
         jButton3.setName("btnprodutos"); // NOI18N
@@ -71,7 +71,7 @@ public class JMenu extends javax.swing.JFrame {
             }
         });
 
-        jButton4.setBackground(new java.awt.Color(102, 255, 255));
+        jButton4.setBackground(new java.awt.Color(51, 255, 255));
         jButton4.setFont(new java.awt.Font("Rockwell", 0, 22)); // NOI18N
         jButton4.setText("Clientes");
         jButton4.setName("btnclientes"); // NOI18N

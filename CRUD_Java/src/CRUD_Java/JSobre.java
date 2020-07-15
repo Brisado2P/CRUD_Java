@@ -39,7 +39,7 @@ public class JSobre extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Rockwell", 0, 14)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel1.setText("<html>Este programa ainda está em construção. <br><br> Informações iniciais: <br>Este é um programa destinado para empresas que vendam para lojas menores. <br>Aqui a empresa pode cadastrar seus vendedores. <br>Os vendedores registram os pedidos dos clientes, atualizam os produtos (quantidade ou descrição) e cadastram novos clientes.<br><br>  Futuras atualizações: <br>Login para vendedores comuns e administradores do programa.<br><br>  Para mais informações contate os criadores:<br> Pamela Brandão Olival 3ºAI <br>Victor Guilherme Ferreira Soares 3ºAI</html>");
+        jLabel1.setText("<html>Este programa ainda está em construção. <br><br> Informações iniciais: <br>Este é um programa destinado para empresas que vendam para lojas menores. <br>Aqui a empresa pode cadastrar seus vendedores. <br>Os vendedores registram os pedidos dos clientes, atualizam os produtos (quantidade ou descrição) e cadastram novos clientes.<br><br>  Atualização mais recente: <br>Login para vendedores comuns e administradores do programa.<br><br>  Para mais informações contate os criadores:<br> Pamela Brandão Olival 3ºAI <br>Victor Guilherme Ferreira Soares 3ºAI</html>");
 
         jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setFont(new java.awt.Font("Rockwell", 0, 14)); // NOI18N
