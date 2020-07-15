@@ -1,4 +1,4 @@
-# CRUD_Java
+﻿# CRUD_Java
 Projeto em java que estou realizando na minha escola.
 
 Obs: Estou fazendo os primeiros uploads pois eu e minha colega ainda estamos nos adaptando ao GitHub.
@@ -14,3 +14,14 @@ Agora a só executar ele.
 Dupla: Pamela Olival e Victor Guilherme 3ºAI
 
 #############################
+
+
+	-Detalhes do projeto-
+
+  Este projeto esta sendo realizado com o intuito de aprender e se familiarizar com 
+o CRUD, utilizando a linguagem Java.
+  É basicamente um sistema com pedidos, clientes, produtos e vendedores,
+onde os dados serão guardados em um BD.
+
+ É um projeto de bimestre que o Prof. Marcel da Etec Prof. Horácio Augusto da Silveira 
+propôs e esta organizando.
